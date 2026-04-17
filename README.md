@@ -28,4 +28,4 @@ Node.js · REST APIs · PostgreSQL · Git
 
 ## 📊 GitHub Stats
 
-![Ahmer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmeraftab&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeraftab&layout=compact&theme=dark)
