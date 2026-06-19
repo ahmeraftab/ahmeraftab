@@ -23,7 +23,7 @@ Git · Docker (basic) · Linux · Vercel
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Bella Cucina AI Concierge](https://github.com/ahmeraftab/bella-cucina) · [Live](https://bella-cucina-roan.vercel.app/) | Production-ready AI chatbot for an upscale Italian restaurant. Full RAG pipeline — 16 knowledge chunks embedded with Gemini, retrieved via cosine similarity, streamed token-by-token. Includes a filterable menu page and a password-protected admin analytics dashboard. | Next.js 16, Gemini 2.5 Flash, RAG, TypeScript, Tailwind, Vercel |
+| [Bella Cucina](https://github.com/ahmeraftab/bella-cucina) · [Live](https://bella-cucina-roan.vercel.app/) | AI restaurant concierge with a full RAG pipeline, streaming responses, filterable menu page, and admin dashboard. | Next.js, Gemini, RAG, TypeScript, Vercel |
 | [AI Resume Reviewer](https://github.com/ahmeraftab/ai-resume-reviewer) · [Live](https://ai-resume-reviewer-production-ee24.up.railway.app) | Upload a PDF resume and get an AI-generated review with score, strengths, weaknesses, ATS analysis, and job-description matching. | FastAPI, Google Gemini, PyMuPDF, HTML/CSS/JS |
 | [Spotify AWS Pipeline](https://github.com/ahmeraftab/Spotify-AWS) | Serverless ETL — Spotify API → S3 → Snowflake → Power BI dashboards. | AWS Lambda, Snowpipe, Python |
 | [Real-Time Weather ETL](https://github.com/ahmeraftab/RealTime_Weather_ETL_Pipeline) | Real-time weather data ingestion and transformation pipeline. | Python, AWS |
