@@ -1,33 +1,33 @@
 # Hi, I'm Ahmer Aftab 👋
 
-Data Engineer & Full Stack Developer focused on building scalable data pipelines, backend APIs, and AI-powered applications.
+AI Engineer & Full Stack Developer building RAG pipelines, AI-powered applications, and scalable data infrastructure.
 
 ## 🛠️ Tech Stack
 
 **AI & LLMs**
-RAG Pipelines · Google Gemini · Vector Embeddings · Streaming APIs
+RAG Pipelines · Google Gemini · Vector Embeddings · Streaming APIs · Twilio WhatsApp API
+
+**Frontend & Backend**
+Next.js · FastAPI · Node.js · REST APIs · PostgreSQL
 
 **Cloud & Data**
 AWS (Lambda, S3, CloudWatch) · Snowflake · Snowpipe · Power BI · ETL Pipelines
-
-**Backend & APIs**
-Next.js · FastAPI · Node.js · REST APIs · PostgreSQL
 
 **Languages**
 Python · TypeScript · SQL · JavaScript · C++
 
 **Tooling**
-Git · Docker (basic) · Linux · Vercel
+Git · Docker (basic) · Linux · Vercel · Framer Motion · shadcn/ui
 
 ## 📂 Featured Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [QuickReply AI](https://github.com/ahmeraftab/quickreply-ai) · [Live](https://quickreply-ai-blue.vercel.app/) | B2B SaaS demo — AI WhatsApp assistant with a full RAG pipeline, live browser demo, Twilio webhook integration, and admin analytics dashboard. | Next.js 14, Gemini, RAG, Twilio, TypeScript, Vercel |
 | [Bella Cucina](https://github.com/ahmeraftab/bella-cucina) · [Live](https://bella-cucina-roan.vercel.app/) | AI restaurant concierge with a full RAG pipeline, streaming responses, filterable menu page, and admin dashboard. | Next.js, Gemini, RAG, TypeScript, Vercel |
 | [AI Resume Reviewer](https://github.com/ahmeraftab/ai-resume-reviewer) · [Live](https://ai-resume-reviewer-production-ee24.up.railway.app) | Upload a PDF resume and get an AI-generated review with score, strengths, weaknesses, ATS analysis, and job-description matching. | FastAPI, Google Gemini, PyMuPDF, HTML/CSS/JS |
-| [Spotify AWS Pipeline](https://github.com/ahmeraftab/Spotify-AWS) | Serverless ETL — Spotify API → S3 → Snowflake → Power BI dashboards. | AWS Lambda, Snowpipe, Python |
-| [Real-Time Weather ETL](https://github.com/ahmeraftab/RealTime_Weather_ETL_Pipeline) | Real-time weather data ingestion and transformation pipeline. | Python, AWS |
-| [Redfin Pipeline](https://github.com/ahmeraftab/Redfin_Pipeline) | Real estate data ETL pipeline from Redfin exports into a structured data store. | Python, AWS, S3 |
+| [SpotiFlow](https://github.com/ahmeraftab/Spotify-AWS) | Serverless ETL — Spotify API → S3 → Snowflake → Power BI dashboards. | AWS Lambda, Snowpipe, Python |
+| [RealEdge](https://github.com/ahmeraftab/Redfin_Pipeline) | Automated real estate data pipeline from Redfin exports into a structured data store. | Python, AWS, S3 |
 
 ## 📫 Connect
 
