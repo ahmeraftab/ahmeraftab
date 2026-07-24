@@ -66,9 +66,6 @@ More projects, architecture notes, and a full work history are on **[my portfoli
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmeraftab&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1FE6C4&icon_color=1FE6C4" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeraftab&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1FE6C4" alt="Top Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeraftab&theme=dark&hide_border=true&background=0D1117&ring=1FE6C4&fire=1FE6C4&currStreakLabel=1FE6C4" alt="GitHub Streak" />
 
 </div>
