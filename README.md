@@ -7,7 +7,7 @@ I build the AI layer of modern products: RAG pipelines, LLM orchestration, and t
 - 🔭 Currently building AI-native products: multimodal RAG assistants, LLM-powered chatbots, and agentic tools
 - 🌱 Exploring evaluation tooling and agentic workflows on top of production LLM systems
 - 💬 Ask me about RAG pipelines, LLM integration, or full-stack architecture
-- 📄 Full case studies, experience, and a downloadable resume on [my portfolio](https://portfolio-theta-puce-36.vercel.app/)
+- 📄 Full case studies, experience, and a downloadable resume on [my portfolio](https://ahmeraftab.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +60,7 @@ I build the AI layer of modern products: RAG pipelines, LLM orchestration, and t
 | **[RealEdge](https://github.com/ahmeraftab/Redfin_Pipeline)** | Automated real estate data pipeline turning raw Redfin exports into a structured, query-ready dataset. | Python, AWS, S3 |
 | **[SpotiFlow](https://github.com/ahmeraftab/Spotify-AWS)** | Serverless ETL pipeline: Spotify API → S3 → Snowflake, dashboarded in Power BI, fully event-driven on AWS Lambda. | AWS Lambda, Snowpipe, Python |
 
-More projects, architecture notes, and a full work history are on **[my portfolio](https://portfolio-theta-puce-36.vercel.app/)**.
+More projects, architecture notes, and a full work history are on **[my portfolio](https://ahmeraftab.vercel.app/)**.
 
 ## 📊 GitHub Stats
 
@@ -74,7 +74,7 @@ More projects, architecture notes, and a full work history are on **[my portfoli
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1FE6C4?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-theta-puce-36.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1FE6C4?style=for-the-badge&logo=vercel&logoColor=black)](https://ahmeraftab.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmer-aftab-945885115)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmeraftab02@gmail.com)
 
