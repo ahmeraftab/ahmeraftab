@@ -1,6 +1,6 @@
 # Hi, I'm Ahmer Aftab 👋
 
-### Software Engineer — RAG Pipelines & LLM Integration
+### Software Engineer | RAG Pipelines & LLM Integration
 
 I build the AI layer of modern products: RAG pipelines, LLM orchestration, and the plumbing that turns a language model into something reliable enough to ship. I pair that with strong full-stack fundamentals, so the AI features I build land inside fast, well-engineered web and mobile apps rather than bolted-on demos. Computer Science graduate of Bahria University, open to remote, on-site, and freelance work.
 
